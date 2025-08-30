@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Mahi ❤️ Satyam</title>
+<style>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  overflow-x: hidden;
+}
+.page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 50px;
+  position: relative;
+  transition: all 0.5s;
+  animation: fadeIn 1s ease-in;
+}
+@keyframes fadeIn { from {opacity:0;} to {opacity:1;} }
+h1 { font-size: 40px; color: #e91e63; animation: heartbeat 1s infinite; }
+p { font-size: 20px; line-height: 1.6; max-width: 600px; }
+.heart { font-size: 40px; color: red; animation: heartbeat 1s infinite; position: absolute; }
+@keyframes heartbeat {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.3); }
+}
+/* Floating hearts */
+.floating-heart {
+  position: absolute;
+  font-size: 25px;
+  color: #ff5ca2;
+  animation: float 6s infinite;
+}
+@keyframes float {
+  0% { transform: translateY(0px); opacity: 1; }
+  100% { transform: translateY(-800px); opacity: 0; }
+}
+</style>
+</head>
+<body>
+
+<!-- Pages 1-25 -->
+<div class="page" style="background: linear-gradient(to right, #ffdde1, #ee9ca7);">
+<h1>Dear Satyam ❤️</h1>
+<p>From the moment we met, you became my happiness, my secret smile, and my world. Every call, every message, every laugh with you makes me feel alive. 😘</p>
+<div class="heart" style="top:50px; left:50px;">❤️</div>
+<div class="floating-heart" style="left:20%; animation-delay:0s;">💖</div>
+<div class="floating-heart" style="left:40%; animation-delay:1s;">💘</div>
+<div class="floating-heart" style="left:60%; animation-delay:2s;">💞</div>
+<div class="floating-heart" style="left:80%; animation-delay:3s;">💕</div>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #a1c4fd, #c2e9fb);">
+<h1>My Love 💕</h1>
+<p>Every time I think of you, my heart races. You are the sweetest, funniest, and most caring person I’ve ever known. I love how we can be silly together and still feel like soulmates. 😍</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #fbc2eb, #a6c1ee);">
+<h1>Forever Yours ❤️</h1>
+<p>No matter where life takes us, my heart will always belong to you. You’re not just my boyfriend—you’re my best friend, my support, my everything.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #cfd9df, #e2ebf0);">
+<h1>Sweet Moments 💖</h1>
+<p>I cherish every small moment with you—from our random calls to late-night laughs. You make life feel magical and effortless at the same time.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #f6d365, #fda085);">
+<h1>My Flirt 😘</h1>
+<p>You know just how to make me blush and smile at the same time. You are irresistible, charming, and mine forever. ❤️</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #a8edea, #fed6e3);">
+<h1>My Confidant 💌</h1>
+<p>With you, I can share everything—my dreams, my fears, my silly thoughts. You listen, understand, and make me feel safe and loved.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #84fab0, #8fd3f4);">
+<h1>My Sunshine ☀️</h1>
+<p>You light up my darkest days and make everything brighter. Your smile, your laughter, your presence—it’s all I ever need.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #fbc2eb, #fae3d9);">
+<h1>Little Adventures 🌸</h1>
+<p>Even the smallest adventures with you feel exciting. Whether it’s a walk, a chat, or a silly game, every second with you is priceless.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #ffecd2, #fcb69f);">
+<h1>My Rockstar 🤩</h1>
+<p>You make my heart sing. You are confident, brave, and incredibly amazing. I’m so lucky to have you in my life.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #fddb92, #d1fdff);">
+<h1>Our Love Story 📖</h1>
+<p>From the first hello to our endless conversations, every chapter of our story is my favorite. I can’t wait to keep writing it with you.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #a1c4fd, #c2e9fb);">
+<h1>Always Thinking of You 💕</h1>
+<p>No matter what I’m doing, you’re always on my mind. You make me smile for no reason and my heart skip beats.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #fbc2eb, #a6c1ee);">
+<h1>My Heartbeat ❤️</h1>
+<p>Whenever I hear your name, my heart feels full. You are my heartbeat, my happiness, my safe place.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #cfd9df, #e2ebf0);">
+<h1>Forever and Always 💖</h1>
+<p>No words can ever explain how much you mean to me. I want to be by your side, holding your hand, forever and always.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #f6d365, #fda085);">
+<h1>My Secret Smile 😘</h1>
+<p>You are my reason to smile every single day. The thought of you makes my heart flutter and my soul dance.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #a8edea, #fed6e3);">
+<h1>My Support 🫂</h1>
+<p>Through every up and down, you’ve been my support. Your love keeps me strong and gives me courage.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #84fab0, #8fd3f4);">
+<h1>Our Little World 🌎</h1>
+<p>With you, everything else fades away. We have our little world filled with laughter, love, and endless memories.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #fbc2eb, #fae3d9);">
+<h1>Sweet Kisses 💋</h1>
+<p>I think of your hugs and kisses—they are my favorite things in the universe. I miss them and crave them endlessly.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #ffecd2, #fcb69f);">
+<h1>My Fluffy Thoughts 🐻</h1>
+<p>All my silly thoughts, random messages, and giggles are only because of you. You make life fun and adorable.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #fddb92, #d1fdff);">
+<h1>Our Future ✨</h1>
+<p>I dream about our future together. Every plan, every hope, every dream—I see you by my side in all of them.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #a1c4fd, #c2e9fb);">
+<h1>Endless Laughter 😂</h1>
+<p>Our laughter, our jokes, our silly moments—they make me fall for you more every day.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #fbc2eb, #a6c1ee);">
+<h1>Sweet Messages 💌</h1>
+<p>Every text from you is like a little gift. I read them over and over, smiling like a fool because of you.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #cfd9df, #e2ebf0);">
+<h1>My Endless Love ❤️</h1>
+<p>No distance, no time, no obstacle can ever change the love I have for you. It’s endless, infinite, and all yours.</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #f6d365, #fda085);">
+<h1>Forever Together 💕</h1>
+<p>Satyam, thank you for being you, for loving me, for being my everything. Forever together, my love, my heart, my soul. 💖</p>
+</div>
+
+<div class="page" style="background: linear-gradient(to right, #a8edea, #fed6e3);">
+<h1>With All My Love 💌</h1>
+<p>Always remember, you are my world, my joy, my heartbeat, my everything. I love you endlessly, Satyam. ❤️</p>
+</div>
+
+</body>
+</html>
